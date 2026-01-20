@@ -1,9 +1,0 @@
-Subscription Tracker API: A Backend Development Project
-Created a backend API to deepen understanding of Node.js and Express.js, focusing
-on building a robust and secure service.
-Implemented essential features including role-based authentication, subscription
-tracking, and secure cookie handling for managing user sessions.
-Engineered an automated email notification system with Nodemailer, complete with
-customizable email templates.
-Added secure authentication using bcrypt.js for password hashing and JWT-based
-sessions with HTTP-only cookies.
